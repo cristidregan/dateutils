@@ -1,0 +1,3 @@
+include ':dateutils'
+include ':app'
+rootProject.name = "MavenPublishSample"
